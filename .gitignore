@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+settings.json
+results*.csv
+结果*.csv
+*_渠道统计汇总.csv
